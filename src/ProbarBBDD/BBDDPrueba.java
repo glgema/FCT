@@ -1,4 +1,4 @@
-package ProbarBBDD;
+package probarBBDD;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

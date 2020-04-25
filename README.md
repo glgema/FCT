@@ -1,2 +1,0 @@
-# FCT
-Proyecto FCT
